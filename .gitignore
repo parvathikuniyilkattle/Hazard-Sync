@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# User-uploaded files
+uploads/
+
+# Private application records
+alerts.csv
+complaints.csv
+subscribers.csv
+
+# Backup files
+main_backup*.py
+main_with_complaints_backup.py
+.streamlit/
